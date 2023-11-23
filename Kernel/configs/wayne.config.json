@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "N975F",
-      "repo": "https://github.com/awakened1712",
-      "branch": "android_kernel_samsung_exynos9820",
+      "repo": "https://github.com/awakened1712/android_device_samsung_exynos9820-common",
+      "branch": "lineage-20",
       "device": "d2s",
       "defconfig": "arch/arm64/configs/xynos9820-d2s_defconfig"
     },
