@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
+      "repo": "https://github.com/awakened1712/",
+      "branch": "feat-ksu",
+      "device": "d2s",
       "defconfig": "markw_defconfig"
     },
     "toolchains": [
