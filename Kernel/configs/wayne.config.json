@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Mi6X",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
-      "branch": "TDA",
-      "device": "wayne",
-      "defconfig": "vendor/wayne_defconfig"
+      "name": "N975F",
+      "repo": "https://github.com/awakened1712",
+      "branch": "android_kernel_samsung_exynos9820",
+      "device": "d2s",
+      "defconfig": "arch/arm64/configs/xynos9820-d2s_defconfig"
     },
     "toolchains": [
       {
